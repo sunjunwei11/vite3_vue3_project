@@ -1,7 +1,3 @@
-const abc =      '1';
+const abc = '1';
 
-console.log(abc       );
-
-
-
-
+console.log(abc);
