@@ -12,7 +12,7 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <RouterLink :to="{ name: 'home' }"> Home</RouterLink>
+  <RouterLink :to="{ name: 'home' }">Home</RouterLink>
   <div></div>
   <RouterLink :to="{ name: 'about' }">About</RouterLink>
 
