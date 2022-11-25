@@ -1,3 +1,3 @@
-const abc = '11111111';
+const abc = '111';
 
 console.log(abc);
